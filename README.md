@@ -46,4 +46,5 @@
   <a href="https://yarnpkg.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="45" height="45" alt="yarn" /></a>
   <a href="https://www.npmjs.com/"><img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="45" height="45" alt="npm" /></a>
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45" alt="docker" /></a>
+  <a href="https://insomnia.rest/"><img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="45" height="45" alt="insomnia" /></a>
 </div>
