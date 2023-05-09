@@ -17,7 +17,7 @@
 > Frontend
 <div>
   <a href="https://react.dev/"><img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="45" height="45" alt="React" /></a>
-  <a href="https://redux.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" height="45" alt="Redux" /></a>
+  <a href="https://redux-toolkit.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" height="45" alt="Redux" /></a>
   <a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="45" height="45" alt="Bootstrap" /></a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind" /></a>
   <a href="https://mui.com/"><img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45" alt="Material UI" /></a>
