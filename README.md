@@ -43,7 +43,6 @@
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="45" height="45" alt="git" /></a>
   <a href="https://webpack.js.org/"><img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="45" height="45" alt="Webpack" /></a>
   <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="45" height="45" alt="Vite" /></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" width="45" height="45" alt="jira" /></a>
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45" alt="docker" /></a>
   <a href="https://insomnia.rest/"><img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="45" height="45" alt="insomnia" /></a>
 </div>
