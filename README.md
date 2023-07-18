@@ -21,9 +21,6 @@
   <a href="https://redux-toolkit.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" height="45" alt="Redux" /></a>
   <a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="45" height="45" alt="Bootstrap" /></a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind" /></a>
- <a href="https://ui.shadcn.com/"><img src="https://github.com/EDMIGHT/EDMIGHT/assets/78845061/94918877-708b-4b4b-911c-3f1a27d34321" width="45" height="45" alt="shadcn/ui" /></a>
-
-
 </div>
 
 > Backend
