@@ -16,21 +16,22 @@
 
 > Frontend
 <div>
-  <a href="https://react.dev/"><img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="45" height="45" alt="React" /></a>
+  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="45" height="45" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" /></a>
   <a href="https://redux-toolkit.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" height="45" alt="Redux" /></a>
   <a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="45" height="45" alt="Bootstrap" /></a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45" alt="Tailwind" /></a>
-  <a href="https://mui.com/"><img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="45" height="45" alt="Material UI" /></a>
-  <a href="https://webpack.js.org/"><img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="45" height="45" alt="Webpack" /></a>
-  <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="45" height="45" alt="Vite" /></a>
+ <a href="https://ui.shadcn.com/"><img src="https://github.com/EDMIGHT/EDMIGHT/assets/78845061/94918877-708b-4b4b-911c-3f1a27d34321" width="45" height="45" alt="shadcn/ui" /></a>
+
+
 </div>
 
 > Backend
 <div>
   <a href="https://nodejs.org/en"><img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="45" height="45" alt="NodeJS" /></a>
+    <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="45" height="45" alt="ExpressJS" /></a>
   <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /></a>
-  <a href="https://firebase.google.com/"><img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="45" height="45" alt="Firebase" /></a>
   <a href="https://www.prisma.io/"><img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="45" height="45" alt="Prisma" /></a>
 </div>
 
@@ -43,8 +44,9 @@
 <div>
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="45" height="45" alt="figma" /></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="45" height="45" alt="git" /></a>
-  <a href="https://yarnpkg.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="45" height="45" alt="yarn" /></a>
-  <a href="https://www.npmjs.com/"><img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="45" height="45" alt="npm" /></a>
+  <a href="https://webpack.js.org/"><img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="45" height="45" alt="Webpack" /></a>
+  <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="45" height="45" alt="Vite" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" width="45" height="45" alt="jira" /></a>
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45" alt="docker" /></a>
   <a href="https://insomnia.rest/"><img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="45" height="45" alt="insomnia" /></a>
 </div>
