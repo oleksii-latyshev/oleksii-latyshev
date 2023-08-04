@@ -2,8 +2,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edmight's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmight&theme=nord&layout=compact&hide_border=true&count_private=true" height="200px"/></a>
 <br/>
 
-<h2 align="left" id="stack">Stack</h2>
-
 > Languages
 <div>
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="45" height="45" alt="javascript" /></a>
