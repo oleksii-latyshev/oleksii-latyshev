@@ -26,6 +26,7 @@
 <div>
   <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" /></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="45" height="45" alt="ExpressJS" /></a>
+  <a href="https://elysiajs.com/"><img src="https://elysiajs.com/assets/elysia.svg" width="45" height="45" alt="ElysiaJS" /></a>
   <a href="https://orm.drizzle.team/"><img src="https://avatars.githubusercontent.com/u/108468352" width="45" height="45" alt="Drizzle" /></a>
   <a href="https://www.prisma.io/"><img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="45" height="45" alt="Prisma" /></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /></a>
