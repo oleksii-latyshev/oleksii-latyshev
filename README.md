@@ -16,6 +16,7 @@
 <div>
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="45" height="45" alt="React" /></a>
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" /></a>
+  <a href="https://svelte.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="45" height="45" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" /></a>
   <a href="https://ui.shadcn.com/"><img src="https://avatars.githubusercontent.com/u/139895814" width="45" height="45" alt="shadcn-ui" /></a>
   <a href="https://redux-toolkit.js.org/"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="45" height="45" alt="Redux" /></a>
