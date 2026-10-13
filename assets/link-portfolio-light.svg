@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="30" viewBox="0 0 114 30" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<rect x=".5" y=".5" width="113" height="29" rx="8" fill="#e0e0e1" stroke="#8f9194"/>
+<circle cx="18" cy="15.0" r="4" fill="#1f2328"/>
+<text x="30" y="19.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#1f2328">Portfolio</text>
+</svg>

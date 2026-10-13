@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="30" viewBox="0 0 91 30" role="img" aria-label="Resume">
+<title>Resume</title>
+<rect x=".5" y=".5" width="90" height="29" rx="8" fill="#dfede3" stroke="#8cbf9b"/>
+<circle cx="18" cy="15.0" r="4" fill="#1a7f37"/>
+<text x="30" y="19.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#1f2328">Resume</text>
+</svg>

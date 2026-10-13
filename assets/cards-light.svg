@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="520" viewBox="0 0 880 520" role="img" aria-label="About: Full-stack developer owning products end to end within the modern TypeScript ecosystem. End-to-end delivery: taking features from design mockup to production — UI, API, database and infrastructure. Web &amp; Mobile: building web apps and cross-platform mobile apps backed by reusable design systems. Backend &amp; Integrations: designing modular services, webhook integrations and solid relational data models. Snapshot: Experience: Since 2023; Education: M.S. in CS · NURE (2025); Location: Kharkiv, UA (Remote); Languages: UA native · EN B1; Focus: Full-Stack &amp; Mobile Stack: Core: TypeScript, JavaScript; Web &amp; Mobile: Next.js, React, React Native, Expo, Tailwind; Backend: NestJS, Elysia.js, Node.js, Express; Data: PostgreSQL, MySQL, Prisma, Drizzle; Cloud &amp; Infra: AWS (S3/CloudFront), Docker, CI/CD Mindset: Turning ambitious, visually-refined designs into fluid digital products. Deconstructing complex problems into clean, reusable primitives. Obsessing over performance and resilience — from interface to cloud.">
+<title>About: Full-stack developer owning products end to end within the modern TypeScript ecosystem. End-to-end delivery: taking features from design mockup to production — UI, API, database and infrastructure. Web &amp; Mobile: building web apps and cross-platform mobile apps backed by reusable design systems. Backend &amp; Integrations: designing modular services, webhook integrations and solid relational data models. Snapshot: Experience: Since 2023; Education: M.S. in CS · NURE (2025); Location: Kharkiv, UA (Remote); Languages: UA native · EN B1; Focus: Full-Stack &amp; Mobile Stack: Core: TypeScript, JavaScript; Web &amp; Mobile: Next.js, React, React Native, Expo, Tailwind; Backend: NestJS, Elysia.js, Node.js, Express; Data: PostgreSQL, MySQL, Prisma, Drizzle; Cloud &amp; Infra: AWS (S3/CloudFront), Docker, CI/CD Mindset: Turning ambitious, visually-refined designs into fluid digital products. Deconstructing complex problems into clean, reusable primitives. Obsessing over performance and resilience — from interface to cloud.</title>
+<rect x="0.5" y=".5" width="503" height="275" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="520.5" y=".5" width="359" height="275" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.4" fill="#2563eb">ABOUT &amp; ENGINEERING FOCUS</text>
+<rect x="332.0" y="23" width="148.0" height="21" rx="6" fill="#2563eb" fill-opacity=".12"/>
+<text x="340.0" y="37" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#2563eb">TypeScript Ecosystem</text>
+<text x="24" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Full-stack developer owning products end to end within the</text>
+<text x="24" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">modern TypeScript ecosystem.</text>
+<circle cx="27" cy="115" r="2" fill="#656d76"/>
+<text x="40" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14"><tspan font-weight="600" fill="#1f2328">End-to-end delivery:</tspan><tspan fill="#656d76"> taking features from design mockup to</tspan></text>
+<text x="40" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">production — UI, API, database and infrastructure.</text>
+<circle cx="27" cy="167" r="2" fill="#656d76"/>
+<text x="40" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14"><tspan font-weight="600" fill="#1f2328">Web &amp; Mobile:</tspan><tspan fill="#656d76"> building web apps and cross-platform mobile</tspan></text>
+<text x="40" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">apps backed by reusable design systems.</text>
+<circle cx="27" cy="219" r="2" fill="#656d76"/>
+<text x="40" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14"><tspan font-weight="600" fill="#1f2328">Backend &amp; Integrations:</tspan><tspan fill="#656d76"> designing modular services, webhook</tspan></text>
+<text x="40" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">integrations and solid relational data models.</text>
+<text x="544" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.4" fill="#9333ea">SNAPSHOT</text>
+<text x="544" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Experience</text>
+<text x="856" y="72" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#1f2328">Since 2023</text>
+<text x="544" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Education</text>
+<text x="856" y="104" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#1f2328">M.S. in CS · NURE (2025)</text>
+<text x="544" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Location</text>
+<text x="856" y="136" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#1f2328">Kharkiv, UA (Remote)</text>
+<text x="544" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Languages</text>
+<text x="856" y="168" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#1f2328">UA native · EN B1</text>
+<text x="544" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#656d76">Focus</text>
+<text x="856" y="200" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#2563eb">Full-Stack &amp; Mobile</text>
+<g transform="translate(0 292)">
+<rect x="0.5" y=".5" width="503" height="227" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="520.5" y=".5" width="359" height="227" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.4" fill="#2563eb">CURATED PRODUCTION STACK</text>
+<text x="24" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Core</text>
+<text x="142.0" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#2563eb">TypeScript<tspan fill="#656d76">,</tspan></text>
+<text x="232.0" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a16207">JavaScript<tspan fill="#656d76"></tspan></text>
+<text x="24" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Web &amp; Mobile</text>
+<text x="142.0" y="102" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#2563eb">Next.js<tspan fill="#656d76">,</tspan></text>
+<text x="209.5" y="102" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0891b2">React<tspan fill="#656d76">,</tspan></text>
+<text x="262.0" y="102" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0891b2">React Native<tspan fill="#656d76">,</tspan></text>
+<text x="367.0" y="102" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#9333ea">Expo<tspan fill="#656d76">,</tspan></text>
+<text x="412.0" y="102" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0d9488">Tailwind<tspan fill="#656d76"></tspan></text>
+<text x="24" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Backend</text>
+<text x="142.0" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#dc2626">NestJS<tspan fill="#656d76">,</tspan></text>
+<text x="202.0" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#db2777">Elysia.js<tspan fill="#656d76">,</tspan></text>
+<text x="284.5" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#059669">Node.js<tspan fill="#656d76">,</tspan></text>
+<text x="352.0" y="132" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#a16207">Express<tspan fill="#656d76"></tspan></text>
+<text x="24" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Data</text>
+<text x="142.0" y="162" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#4f46e5">PostgreSQL<tspan fill="#656d76">,</tspan></text>
+<text x="232.0" y="162" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#4f46e5">MySQL<tspan fill="#656d76">,</tspan></text>
+<text x="284.5" y="162" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0891b2">Prisma<tspan fill="#656d76">,</tspan></text>
+<text x="344.5" y="162" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#b45309">Drizzle<tspan fill="#656d76"></tspan></text>
+<text x="24" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2328">Cloud &amp; Infra</text>
+<text x="142.0" y="192" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#b45309">AWS (S3/CloudFront)<tspan fill="#656d76">,</tspan></text>
+<text x="299.5" y="192" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0284c7">Docker<tspan fill="#656d76">,</tspan></text>
+<text x="359.5" y="192" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0284c7">CI/CD<tspan fill="#656d76"></tspan></text>
+<text x="544" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1.4" fill="#059669">CRAFT &amp; ENGINEERING MINDSET</text>
+<circle cx="547" cy="67" r="2.5" fill="#059669"/>
+<text x="560" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Turning ambitious, visually-refined designs</text>
+<text x="560" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">into fluid digital products.</text>
+<circle cx="547" cy="119" r="2.5" fill="#059669"/>
+<text x="560" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Deconstructing complex problems into</text>
+<text x="560" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">clean, reusable primitives.</text>
+<circle cx="547" cy="171" r="2.5" fill="#059669"/>
+<text x="560" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Obsessing over performance and</text>
+<text x="560" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">resilience — from interface to cloud.</text>
+</g>
+</svg>
