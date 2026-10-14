@@ -229,7 +229,7 @@ def cards(t, alt):
     top, top_h = row(about_card, snapshot_card, t)
     bottom, bottom_h = row(stack_card, principles_card, t)
     body = [*top, f'<g transform="translate(0 {top_h + GAP})">', *bottom, "</g>"]
-    return svg(W, top_h + GAP + bottom_h, body, alt)
+    return svg(W, top_h + GAP + bottom_h + 13, body, alt)
 
 
 def svg(w, h, body, alt):
