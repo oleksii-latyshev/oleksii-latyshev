@@ -24,11 +24,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oleksii-latyshev&show_icons=true&line_height=27&border_radius=16&bg_color=161b22&border_color=30363d&title_color=60a5fa&text_color=e6edf3&icon_color=60a5fa&card_width=504">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=oleksii-latyshev&show_icons=true&line_height=27&border_radius=16&bg_color=f6f8fa&border_color=d0d7de&title_color=2563eb&text_color=1f2328&icon_color=2563eb&card_width=504">
-    <img src="https://github-readme-stats.vercel.app/api?username=oleksii-latyshev&show_icons=true&line_height=27&border_radius=16&bg_color=161b22&border_color=30363d&title_color=60a5fa&text_color=e6edf3&icon_color=60a5fa&card_width=504" width="57.27%" alt="GitHub stats" />
-  </picture><img src="https://raw.githubusercontent.com/oleksii-latyshev/oleksii-latyshev/main/assets/spacer.svg" width="1.82%" alt="" /><picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=oleksii-latyshev&show_icons=true&line_height=27&border_radius=16&bg_color=161b22&border_color=30363d&title_color=60a5fa&text_color=e6edf3&icon_color=60a5fa&card_width=504" width="57%" alt="GitHub stats" />
+  </picture>&nbsp;<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-latyshev&langs_count=3&hide=css&card_width=360&border_radius=16&bg_color=161b22&border_color=30363d&title_color=60a5fa&text_color=e6edf3&icon_color=60a5fa">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-latyshev&langs_count=3&hide=css&card_width=360&border_radius=16&bg_color=f6f8fa&border_color=d0d7de&title_color=2563eb&text_color=1f2328&icon_color=2563eb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-latyshev&langs_count=3&hide=css&card_width=360&border_radius=16&bg_color=161b22&border_color=30363d&title_color=60a5fa&text_color=e6edf3&icon_color=60a5fa" width="40.91%" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksii-latyshev&langs_count=3&hide=css&card_width=360&border_radius=16&bg_color=161b22&border_color=30363d&title_color=60a5fa&text_color=e6edf3&icon_color=60a5fa" width="41%" alt="Top languages" />
   </picture>
 </div>
 
